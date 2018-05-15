@@ -26,8 +26,6 @@ function gdpr_analytics( ) {
     $data['tid'] = "";
 
     $ga_url = "https://www.google-analytics.com/collect";
-    #echo "<pre>";
-    #print_r($_SERVER);
 
     $data = array();
 
