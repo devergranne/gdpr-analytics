@@ -22,12 +22,12 @@
  */
 function gdpr_analytics( ) {
 
+    $data = array();
+    
     # Enter your GA CODE HERE
     $data['tid'] = "";
 
     $ga_url = "https://www.google-analytics.com/collect";
-
-    $data = array();
 
     # Create an anonymous ID - we double hash with salt, GA won't know who's who
     $salt = hash("sha256", $_SERVER['SERVER_ADDR'] . $_SERVER['SERVER_NAME'] . $_SERVER['DOCUMENT_ROOT']);
