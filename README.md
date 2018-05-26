@@ -1,5 +1,5 @@
 
-# We're looking for contributors feel free to join and make that a great plugin !
+# We're looking for contributors feel free to join !
 
 This is a proof of concept of a 100% GDPR compliant implementation of Google Analytics through a Wordpress plugin.
 
