@@ -1,3 +1,6 @@
+
+# We're looking for contributors feel free to join and make that a great plugin !
+
 This is a proof of concept of a 100% GDPR compliant implementation of Google Analytics through a Wordpress plugin.
 
 Making GA GDPR compliant poses a few problems since anytime a web browser picks up the default library on Google's servers their IP address is sent, which causes a personal data processing, therefore making GDPR apply.
